@@ -1,2 +1,5 @@
 Name: Archana
-Major : Software Engineering 
+Major : Software Engineering
+Favorite Restaurant : Benihana
+Favorite Movie : Amadeus
+ 

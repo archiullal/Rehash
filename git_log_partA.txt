@@ -1,0 +1,125 @@
+commit 1f2d81265ce4f73cfeb195b344fe109d2fb4b73e
+Author: Archana <87271.kbhat@students.itu.edu>
+Date:   Mon Apr 25 13:23:21 2016 -0700
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..814b49e
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++Graduation year: May 2106 Job Title : Software Engineer
+
+commit 7c1712a9a1acccd240854b275b773e378a471ead
+Author: Archana <87271.kbhat@students.itu.edu>
+Date:   Mon Apr 25 13:14:07 2016 -0700
+
+    Deleting file2.txt
+
+diff --git a/87271_Archana.txt b/87271_Archana.txt
+deleted file mode 100644
+index da5132c..0000000
+--- a/87271_Archana.txt
++++ /dev/null
+@@ -1,5 +0,0 @@
+-Name: Archana
+-Major : Software Engineering
+-Favorite Restaurant : Benihana
+-Favorite Movie : Amadeus
+- 
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..0bf1d33
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1,5 @@
++Name: Archana
++Major : Software Engineering
++Favorite Restaurant : Benihana
++Favorite Movie : Amadeus
++Favorite Color : Black 
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 814b49e..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Graduation year: May 2106 Job Title : Software Engineer
+
+commit 2e28e6dc600f22d6009f1853a5914af8b93ebaea
+Author: Archana <87271.kbhat@students.itu.edu>
+Date:   Mon Apr 25 13:00:30 2016 -0700
+
+    Added grad year and Job Title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..814b49e
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++Graduation year: May 2106 Job Title : Software Engineer
+
+commit a4071c451f191a62b34bbd60c8058cce44e59326
+Author: Archana <87271.kbhat@students.itu.edu>
+Date:   Mon Apr 25 12:27:15 2016 -0700
+
+    Added favorite restaurant and movie
+
+diff --git a/87271_Archana.txt b/87271_Archana.txt
+index e5122da..da5132c 100644
+--- a/87271_Archana.txt
++++ b/87271_Archana.txt
+@@ -1,2 +1,5 @@
+ Name: Archana
+-Major : Software Engineering 
++Major : Software Engineering
++Favorite Restaurant : Benihana
++Favorite Movie : Amadeus
++ 
+
+commit 2525425845736223def0218ff2ce71ebfcf22017
+Author: Archana <87271.kbhat@students.itu.edu>
+Date:   Mon Apr 25 12:07:31 2016 -0700
+
+    Now has my major
+
+diff --git a/87271_Archana.txt b/87271_Archana.txt
+index bb02d48..e5122da 100644
+--- a/87271_Archana.txt
++++ b/87271_Archana.txt
+@@ -1,2 +1,2 @@
+ Name: Archana
+-Student ID: 87271
++Major : Software Engineering 
+
+commit eb6ad725762d68a881e78d6c99d2ed2b68d5c3a3
+Author: Archana <87271.kbhat@students.itu.edu>
+Date:   Mon Apr 25 11:59:23 2016 -0700
+
+    add
+
+diff --git a/87271_Archana.txt b/87271_Archana.txt
+index fa49b07..bb02d48 100644
+--- a/87271_Archana.txt
++++ b/87271_Archana.txt
+@@ -1 +1,2 @@
+-new file
++Name: Archana
++Student ID: 87271
+
+commit a0fcebef1da9a4f9cab854241e97f2f510c56c0c
+Author: Archana <87271.kbhat@students.itu.edu>
+Date:   Mon Apr 25 11:51:01 2016 -0700
+
+    committing a new file with my name
+
+diff --git a/87271_Archana.txt b/87271_Archana.txt
+new file mode 100644
+index 0000000..fa49b07
+--- /dev/null
++++ b/87271_Archana.txt
+@@ -0,0 +1 @@
++new file
